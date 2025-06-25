@@ -250,7 +250,7 @@ parameters_bounds = np.array([
     [1.4,           2.0],          # n3 (3rd Diyot Ideality Factor - Only for TDM)
     [1e-9,        10e-6]           # Io3 (3rd Diode Saturation Current - Only for TDM)
 ])
-
+```
 ---
 
 ## Supported Libraries and Versions
