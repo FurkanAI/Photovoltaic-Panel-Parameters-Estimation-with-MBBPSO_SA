@@ -1,6 +1,6 @@
 # Metaheuristic Optimization Algorithms for PV Panel Model Parameter Estimation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FurkanAI/Photovoltaic-Panel-Parameters-Estimation-with-MBBPSO_SA/blob/main/PV_Model_Parameter_Estimation_and_Result.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FurkanAI/Photovoltaic-Panel-Parameters-Estimation-with-MBBPSO_SA/blob/master/PV_Model_Parameter_Estimation_and_Result.ipynb)
 
 > Click the badge above to launch the notebook directly in Google Colab — no installation required.
 
